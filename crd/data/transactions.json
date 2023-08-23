@@ -1,0 +1,62 @@
+[
+    {
+        "_id": 2,
+        "account_id": 101,
+        "transaction_count": 42,
+        "date": "2023-08-17",
+        "amount": 1200,
+        "transaction_code": "buy",
+        "symbol": "xyz",
+        "price": "15.8742100198172561238768450123456789012345678",
+        "total": "19049.0520237807073474538265"
+            
+    },
+    {
+        "_id": 3,
+        "account_id": 6663,
+        "transaction_count": 57,
+        "date": "2023-08-19",
+        "amount": 2200,
+        "transaction_code": "buy",
+        "symbol": "def",
+        "price": "18.6178901234567890123456789012345678901234567",
+        "total": "40897.3596336311236789123"
+            
+    },
+    {
+        "_id": 4,
+        "account_id": 101,
+        "transaction_count": 39,
+        "date": "2023-08-21",
+        "amount": 1800,
+        "transaction_code": "buy",
+        "symbol": "jkl",
+        "price": "20.3870123456789012345678901234567890123456789",
+        "total": "36656.6212362228229255555555"
+ 
+    },
+    {
+        "_id": 5,
+        "account_id": 8885,
+        "transaction_count": 48,
+        "date": "2023-08-23",
+        "amount": 1900,
+        "transaction_code": "buy",
+        "symbol": "pqr",
+        "price": "17.8201234567890123456789012345678901234567890",
+        "total": "33858.2345678901234567890"
+            
+        
+    },
+    {
+        "_id": 6,
+        "account_id": 9996,
+        "transaction_count": 51,
+        "date": "2023-08-25",
+        "amount": 2000,
+        "transaction_code": "buy",
+        "symbol": "vwx",
+        "price": "14.9071234567890123456789012345678901234567890",
+        "total": "29814.2469135802469135802"
+    }
+]

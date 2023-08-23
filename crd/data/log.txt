@@ -1,0 +1,16 @@
+info: "/api/v1/account/" url hit at date: Wed Aug 23 2023 13:35:07 GMT+0600 (Bangladesh Standard Time) with action GET
+info: "/api/v1/account/9" url hit at date: Wed Aug 23 2023 13:36:28 GMT+0600 (Bangladesh Standard Time) with action PUT
+info: "/api/v1/account/" url hit at date: Wed Aug 23 2023 13:36:50 GMT+0600 (Bangladesh Standard Time) with action DELETE
+info: "/api/v1/account/" url hit at date: Wed Aug 23 2023 13:36:57 GMT+0600 (Bangladesh Standard Time) with action DELETE
+info: "/api/v1/account/" url hit at date: Wed Aug 23 2023 13:37:58 GMT+0600 (Bangladesh Standard Time) with action GET
+info: "/api/v1/account/all" url hit at date: Wed Aug 23 2023 14:03:03 GMT+0600 (Bangladesh Standard Time) with action GET
+info: "/api/v1/account/all" url hit at date: Wed Aug 23 2023 14:03:09 GMT+0600 (Bangladesh Standard Time) with action GET
+info: "/api/v1/account/" url hit at date: Wed Aug 23 2023 14:03:09 GMT+0600 (Bangladesh Standard Time) with action GET
+info: "/api/v1/account/all" url hit at date: Wed Aug 23 2023 14:03:16 GMT+0600 (Bangladesh Standard Time) with action GET
+info: "/api/v1/account/" url hit at date: Wed Aug 23 2023 14:03:16 GMT+0600 (Bangladesh Standard Time) with action GET
+info: "/api/v1/account/" url hit at date: Wed Aug 23 2023 14:03:16 GMT+0600 (Bangladesh Standard Time) with action POST
+info: "/api/v1/account/" url hit at date: Wed Aug 23 2023 14:03:25 GMT+0600 (Bangladesh Standard Time) with action POST
+info: "/api/v1/account/" url hit at date: Wed Aug 23 2023 14:13:23 GMT+0600 (Bangladesh Standard Time) with action GET
+info: "/api/v1/account/" url hit at date: Wed Aug 23 2023 14:13:40 GMT+0600 (Bangladesh Standard Time) with action GET
+info: "/api/v1/account/" url hit at date: Wed Aug 23 2023 14:13:40 GMT+0600 (Bangladesh Standard Time) with action POST
+info: "/api/v1/account/" url hit at date: Wed Aug 23 2023 14:13:47 GMT+0600 (Bangladesh Standard Time) with action POST
